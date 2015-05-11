@@ -10,7 +10,7 @@
   },
   "main": [
     "rrose-src.js",
-    "leaflet.rrose.css",
+    "leaflet.rrose.css"
   ],
   "_source": "https://github.com/motionsmith/rrose.git",
   "_target": "~0.1.0",
